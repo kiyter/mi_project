@@ -1,1 +1,3 @@
-function new() {}
+function neww() {}
+
+function old() {}
